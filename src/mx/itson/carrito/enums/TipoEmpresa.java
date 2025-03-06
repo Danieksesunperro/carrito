@@ -8,9 +8,10 @@ package mx.itson.carrito.enums;
  *
  * @author alumnog
  */
-public enum TipoMotor {
+public enum TipoEmpresa {
     
-    COMBUSTIÓN,
-    ELÉCTRICO,
-    HÍBRIDO
+    BMW,
+    FORD,
+    CHEVROLET,
+    PORCSHE
 }
